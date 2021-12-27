@@ -67,7 +67,7 @@ const Footer = () => {
             </div>
             <div className="footer__author">
                 <div className="footer__block">© 2021 - 2022 <span>SOLE Furniture</span> Сайт
-                    разработан на платформе <a href="#" alt="Создание сайтов в Ташкенте - glotr.uz">Glotr.uz</a>. <span>Все права защищены.</span></div>
+                    разработан на платформе <a href="#">Glotr.uz</a>. <span>Все права защищены.</span></div>
             </div>
         </footer>
     );
