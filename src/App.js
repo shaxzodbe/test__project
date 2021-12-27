@@ -1,9 +1,6 @@
 import './App.css';
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
-import Home from "./pages/Home";
-import Catalog from "./pages/Catalog";
-import About from "./pages/About";
 import Header from "./components/Header";
 import Section from "./components/Section";
 import Product from "./components/Product";
